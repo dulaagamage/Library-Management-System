@@ -73,7 +73,7 @@ The program runs entirely in the command line with simple prompts to perform act
 
 - Implement a GUI interface for improved usability.
 - Add student user accounts with borrowing history.
-- Support for reservation and overdue fines.
+- Support for reservations and overdue fines.
 
 ---
 
@@ -89,4 +89,7 @@ The program runs entirely in the command line with simple prompts to perform act
 
 ## License
 
-This project is licensed under the MIT License.
+This project was created as part of academic coursework.  
+Licensed under the [MIT License](LICENSE).  
+
+You are free to use and modify this project for educational and non-commercial purposes, with attribution to the original author.
